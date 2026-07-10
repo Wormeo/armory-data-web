@@ -28714,6 +28714,13 @@
       "ZH": "标准",
       "DE": "STANDARD"
     },
+    "MINIGUN": {
+      "EN": "MINIGUN",
+      "FR": "MINIGUN",
+      "ES": "MINIGUN",
+      "ZH": "加特林机枪",
+      "DE": "MINIGUN"
+    },
     "REGULAR SHARD": {
       "EN": "REGULAR SHARD",
       "FR": "ÉCLAT STANDARD",
