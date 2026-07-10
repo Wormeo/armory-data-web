@@ -325,7 +325,7 @@
     "SYSTEM UP TO DATE.": "SISTEMA ACTUALIZADO.",
     "PURCHASE PREMIUM TO ACCESS THIS THEME!": "¡COMPRA PREMIUM PARA ACCEDER A ESTE TEMA!",
     "There is no shortage of options within The Armory's Randomizer. It can be intimidating, so refer back to this handy guide whenever you need a refresher.": "No faltan opciones dentro del Aleatorizador de The Armory. Puede ser intimidante, así que consulta esta práctica guía cada vez que necesites un repaso.",
-    "This is where you tell the engine 'I don't want to see weapons from this game'. Pick as many as you want, but you need at least one. ": "Aquí es donde le dices al motor: 'No quiero ver armas de este juego'. Elige tantas como quieras, pero necesitas al menos una.",
+    "This is where you tell the engine \"I don't want to see weapons from this game\". Pick as many as you want, but you need at least one. ": "Aquí es donde le dices al motor: 'No quiero ver armas de este juego'. Elige tantas como quieras, pero necesitas al menos una.",
     "If you only want to get random attachments for one specific weapon, but don't want to hit the button 4 times to do it, this option is what you need.": "Si solo quieres obtener accesorios aleatorios para una arma específica, pero no quieres presionar el botón 4 veces para hacerlo, esta opción es lo que necesitas.",
     "Warzone will allow choices to be picked from each game you have allowed from the Exclusion Zone. Multiplayer will utilize the anchor system,\n      which is a robust filtering logic that will only choose same-era weapons as the first pick.\n\n      So if you randomly (or manually) select a Black Ops 6 weapon, and you have chosen more than 1 weapon to generate, you will only get Black Ops 6 weapons, ensuring that each pick is usable in the game that you are playing.\n      ": "Warzone permitirá realizar selecciones de cada juego que hayas permitido en la Zona de Exclusión. El modo Multijugador utilizará el sistema de anclaje,\n      una lógica de filtrado robusta que solo elegirá armas de la misma era que la primera selección.\n\n      Así que, si seleccionas aleatoriamente (o manualmente) un arma de Black Ops 6 y has elegido generar más de 1 arma, solo obtendrás armas de Black Ops 6, asegurando que cada elección sea utilizable en el juego que estás jugando.\n      ",
     "If you select RANDOM WEAPON, you will see this new option appear. This will tell the engine that you only want that specific weapon class.\n      For legacy categories, the game mode is forced to Multiplayer to utilize the anchor logic and stay accurate, and to elminate overlap if you also allow other non-legacy games. You don't want a Cold War shotgun mixed in with your Black Ops 7 sniper now do you?": "Si seleccionas ARMA ALEATORIA, verás aparecer esta nueva opción. Esto le indicará al motor que solo quieres esa clase de arma específica.\n      Para las categorías heredadas, el modo de juego se fuerza a Multijugador para utilizar la lógica de anclaje y mantener la precisión, y para eliminar superposiciones si también permites otros juegos no heredados. No querrías una escopeta de Cold War mezclada con tu francotirador de Black Ops 7, ¿verdad?",
@@ -686,7 +686,7 @@
 
     "There is no shortage of options within The Armory's Randomizer. It can be intimidating, so refer back to this handy guide whenever you need a refresher.": "Les options ne manquent pas dans l'Aléatoire de The Armory. Cela peut être intimidant, alors n'hésitez pas à consulter ce guide pratique chaque fois que vous avez besoin d'un rappel.",
 
-    "This is where you tell the engine 'I don't want to see weapons from this game'. Pick as many as you want, but you need at least one. ": "C'est ici que vous dites au moteur : 'Je ne veux pas voir d'armes de ce jeu'. Choisissez-en autant que vous voulez, mais vous devez en garder au moins une.",
+    "This is where you tell the engine \"I don't want to see weapons from this game\". Pick as many as you want, but you need at least one. ": "C'est ici que vous dites au moteur : 'Je ne veux pas voir d'armes de ce jeu'. Choisissez-en autant que vous voulez, mais vous devez en garder au moins une.",
 
     "If you only want to get random attachments for one specific weapon, but don't want to hit the button 4 times to do it, this option is what you need.": "Si vous souhaitez uniquement obtenir des accessoires aléatoires pour une arme spécifique, sans avoir à appuyer 4 fois sur le bouton, cette option est ce qu'il vous faut.",
 
@@ -1056,7 +1056,7 @@
 
       "There is no shortage of options within The Armory's Randomizer. It can be intimidating, so refer back to this handy guide whenever you need a refresher.": "Es gibt keinen Mangel an Optionen im ZUFALLSGENERATOR der Armory. Es kann einschüchternd wirken, also schaue immer wieder in diesen praktischen Leitfaden, wenn du eine Auffrischung brauchst.",
 
-      "This is where you tell the engine 'I don't want to see weapons from this game'. Pick as many as you want, but you need at least one. ": "Hier teilst du der Engine mit: 'Ich möchte keine Waffen aus diesem Spiel sehen'. Wähle so viele du willst, aber du musst mindestens eines behalten.",
+      "This is where you tell the engine \"I don't want to see weapons from this game\". Pick as many as you want, but you need at least one. ": "Hier teilst du der Engine mit: 'Ich möchte keine Waffen aus diesem Spiel sehen'. Wähle so viele du willst, aber du musst mindestens eines behalten.",
 
       "If you only want to get random attachments for one specific weapon, but don't want to hit the button 4 times to do it, this option is what you need.": "Wenn du nur zufällige Aufsätze für eine bestimmte Waffe erhalten möchtest, aber nicht 4-mal den Knopf drücken willst, ist dies die Option, die du brauchst.",
 
@@ -1429,7 +1429,7 @@
 
       "There is no shortage of options within The Armory's Randomizer. It can be intimidating, so refer back to this handy guide whenever you need a refresher.": "军械库的随机生成器提供了丰富的选项。由于内容较多，欢迎随时查阅本指南以获取帮助。",
 
-      "This is where you tell the engine 'I don't want to see weapons from this game'. Pick as many as you want, but you need at least one. ": "你可以在这里告诉引擎“我不想要这个游戏里的武器”。你可以根据需要选择排除多个游戏，但至少需要保留一个。",
+      "This is where you tell the engine \"I don't want to see weapons from this game\". Pick as many as you want, but you need at least one. ": "你可以在这里告诉引擎“我不想要这个游戏里的武器”。你可以根据需要选择排除多个游戏，但至少需要保留一个。",
 
       "If you only want to get random attachments for one specific weapon, but don't want to hit the button 4 times to do it, this option is what you need.": "如果你只想为某件特定武器随机生成配件，而不想重复点击按钮，这个选项就是你需要的。",
 
